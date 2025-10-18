@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ProstarNew/static/css/main.8666f1fb.css",
+    "main.js": "/ProstarNew/static/js/main.966446ca.js",
+    "index.html": "/ProstarNew/index.html",
+    "main.8666f1fb.css.map": "/ProstarNew/static/css/main.8666f1fb.css.map",
+    "main.966446ca.js.map": "/ProstarNew/static/js/main.966446ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8666f1fb.css",
+    "static/js/main.966446ca.js"
+  ]
+}
